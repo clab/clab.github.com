@@ -20,5 +20,5 @@ title: clab — people
 </p>
 <p class="photo">
 <img src="/img/wang.jpg" height="200px"/>
-<a href="https://github.com/wlin12">Wang Ling</a>
+<a href="http://www.cs.cmu.edu/~lingwang/">Wang Ling</a>
 </p>
